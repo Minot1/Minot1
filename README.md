@@ -19,9 +19,18 @@
             <li>Modeled after a real-world scenario</li>
             <li>No multiple-choice questions</li>
         </ul>
+        <p>
+        </p>
     </div>
 </div>
 <br>
+
+<img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" />
+
+- test1
+- test2
+- test3
+
 <br>
 
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
