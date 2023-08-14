@@ -7,9 +7,20 @@
 
 ## Some accomplishments
 
-![eJPT](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png)
 
-<img alt="eJPT" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" width="200" />
+<div style="display: flex;">
+    <img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; margin-right: 20px; object-fit: contain;">
+    <div>
+        <h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
+        <ul>
+            <li>An actual hands-on penetration test</li>
+            <li>Modeled after a real-world scenario</li>
+            <li>No multiple-choice questions</li>
+        </ul>
+    </div>
+</div>
+<br>
+<br>
 
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
