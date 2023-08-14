@@ -9,7 +9,7 @@
 - Participates in CTFs regularly
 - Currently preparing for eCPPTv2 certificate
 
-## Some accomplishments
+## Achievements
 
 <a href="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT_cert.png" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" /></a>
 
