@@ -27,7 +27,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" />
 
-<ul style="margin-left: 10px">
+<ul style="margin-left: 180px">
             <li>An actual hands-on penetration test</li>
             <li>Modeled after a real-world scenario</li>
             <li>No multiple-choice questions</li>
