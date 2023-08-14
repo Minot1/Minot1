@@ -6,8 +6,9 @@
 
 ## Some accomplishments
 
-<img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png" alt="TryHackMe" href="https://tryhackme.com/p/minot"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)
+[![Minot](assets/tryhackme.png)](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
+
 
 <!--
 **Minot1/Minot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
