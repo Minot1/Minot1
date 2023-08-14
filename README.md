@@ -3,6 +3,7 @@
 - Passionate about cyber security
 - Enjoys penetration testing
 - Participates in CTFs regularly
+- Currently preparing for eCPPTv2 certificate
 
 ## Some accomplishments
 
