@@ -22,6 +22,8 @@
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
 
+[![Minot's GitHub stats](https://github-readme-stats.vercel.app/api?username=minot1)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Minot1/Minot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
