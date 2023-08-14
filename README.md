@@ -7,25 +7,9 @@
 
 ## Some accomplishments
 
-
-<div style="display: flex;">
-    <div>
-        <img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" />
-    </div>
-    <div>
-        <h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
-        <ul style="margin-left: 10px">
-            <li>An actual hands-on penetration test</li>
-            <li>Modeled after a real-world scenario</li>
-            <li>No multiple-choice questions</li>
-        </ul>
-        <p>
-        </p>
-    </div>
-</div>
-<br>
-
 <img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" />
+
+<h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
 
 <ul style="margin-left: 180px">
             <li>An actual hands-on penetration test</li>
