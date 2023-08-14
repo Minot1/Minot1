@@ -6,8 +6,8 @@
 
 ## Some accomplishments
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/minot.png" alt="TryHackMe" href="https://tryhackme.com/p/minot"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Minot](https://www.hackthebox.eu/badge/image/469019)
+<img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png" alt="TryHackMe" href="https://tryhackme.com/p/minot"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)
 
 <!--
 **Minot1/Minot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
