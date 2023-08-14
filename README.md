@@ -27,9 +27,9 @@
 
 <img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" />
 
-- test1
-- test2
-- test3
+### - test1
+### - test2
+### - test3
 
 <br>
 
