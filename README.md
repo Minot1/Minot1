@@ -1,4 +1,8 @@
-## About me
+# Hi 👋 I'm Taner
+
+<a href="https://www.linkedin.com/in/tanerdincer/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+<a href="mailto:dincer.taner123@gmail.com"><img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+
 - Computer Science graduate
 - Passionate about cyber security
 - Enjoys penetration testing
@@ -24,8 +28,6 @@
 
 ![Minot's GitHub stats](https://github-readme-stats.vercel.app/api?username=minot1)
 
-<a href="https://www.linkedin.com/in/tanerdincer/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
-<a href="mailto:dincer.taner123@gmail.com"><img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
 <!--
 **Minot1/Minot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
