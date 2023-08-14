@@ -1,4 +1,13 @@
-### Hi there 👋
+## About me
+- Computer Science and Engineering graduate
+- Passionate about cyber security
+- Enjoys penetration testing
+- Participates in CTFs regularly
+
+## Some accomplishments
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/minot.png" alt="TryHackMe" href="https://tryhackme.com/p/minot"></img> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![Minot](https://www.hackthebox.eu/badge/image/469019)
 
 <!--
 **Minot1/Minot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
