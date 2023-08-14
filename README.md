@@ -7,7 +7,7 @@
 
 ## Some accomplishments
 
-<a href="https://github.com/Minot1/Minot1/blob/b6bf1e415a155191dad6dc20ce716cc4c825baad/assets/eJPT.pdf"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" /></a>
+<a href="https://github.com/Minot1/Minot1/raw/b6bf1e415a155191dad6dc20ce716cc4c825baad/assets/eJPT.pdf"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" /></a>
 
 <h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
 
