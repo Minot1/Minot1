@@ -1,5 +1,5 @@
 ## About me
-- Computer Science and Engineering graduate
+- Computer Science graduate
 - Passionate about cyber security
 - Enjoys penetration testing
 - Participates in CTFs regularly
