@@ -7,6 +7,10 @@
 
 ## Some accomplishments
 
+![eJPT](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png)
+
+<img alt="eJPT" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" width="200" />
+
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
 
