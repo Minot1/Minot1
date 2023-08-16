@@ -11,9 +11,18 @@
 
 ## Achievements
 
-<a href="https://www.credly.com/badges/cdc114ca-0ea4-4ef3-9822-bc7f52cb8993/public_url"></a>
+<a href="https://www.credly.com/badges/cdc114ca-0ea4-4ef3-9822-bc7f52cb8993/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_intro_to_cyber.png" align="left" style="margin-right: 20px" /></a>
 
-<a href="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT_cert.png" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain;" /></a>
+<h3>Cisco Verified Introduction to Cybersecurity</h3>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<a href="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT_cert.png" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eJPT.png" alt="eJPT" style="width: 150px; object-fit: contain; margin-right: 20px" /></a>
 
 <h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
 
