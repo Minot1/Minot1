@@ -13,8 +13,10 @@
 
 <a href="https://www.credly.com/badges/cdc114ca-0ea4-4ef3-9822-bc7f52cb8993/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_intro_to_cyber.png" align="left" style="margin-right: 20px" /></a>
 
-<a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_intro_to_cyber.png" align="left" style="margin-right: 20px" /></a>
+<a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_basics.png" align="left" style="margin-right: 20px" /></a>
 
+<br>
+<br>
 <br>
 <br>
 <br>
