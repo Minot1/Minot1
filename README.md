@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/tanerdincer/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
 <a href="mailto:dincer.taner123@gmail.com"><img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
-- Computer Science graduate
+- Computer Science BSc Degree
 - Passionate about cyber security
 - Enjoys penetration testing
 - Participates in CTFs regularly
