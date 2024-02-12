@@ -4,10 +4,9 @@
 <a href="mailto:dincer.taner123@gmail.com"><img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
 
 - Computer Science BSc Degree
-- Passionate about cyber security
-- Enjoys penetration testing
+- Currently studying MSc Software Engineering
+- Passionate about Cyber Security
 - Participates in CTFs regularly
-- Currently preparing for eCPPTv2 certificate
 
 ## Achievements
 
