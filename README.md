@@ -37,6 +37,18 @@
 
 <br>
 
+<a href="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eCPPTv2.png" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eCPPTv2.png" alt="eJPT" style="width: 150px; object-fit: contain; margin-right: 20px" /></a>
+
+<h3>eLearnSecurity Junior Penetration Tester Certificate</h3>
+
+<ul style="margin-left: 180px">
+            <li>An actual hands-on penetration test</li>
+            <li>Modeled after a real-world scenario</li>
+            <li>No multiple-choice questions</li>
+        </ul>
+
+<br>
+
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
 
