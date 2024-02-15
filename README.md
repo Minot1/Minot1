@@ -35,7 +35,6 @@
             <li>No multiple-choice questions</li>
         </ul>
 
-<br>
 
 <a href="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eCPPT_cert.png" target="_blank"><img align="left" src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/eCPPTv2.png" alt="eCPPT" style="width: 150px; object-fit: contain; margin-right: 20px" /></a>
 
