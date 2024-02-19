@@ -14,6 +14,8 @@
 
 <a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_basics.png" align="left" style="margin-right: 20px" /></a>
 
+<a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_basics.png" align="left" style="margin-right: 20px" /></a>
+
 <a href="https://www.credly.com/badges/ec7b297f-1f51-4104-8572-f5044bd19ba4/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_devices_and_config.png" align="left" style="margin-right: 20px" /></a>
 
 <br>
