@@ -12,12 +12,12 @@
 
 <a href="https://www.credly.com/badges/cdc114ca-0ea4-4ef3-9822-bc7f52cb8993/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_intro_to_cyber.png" align="left" style="margin-right: 20px" /></a>
 
-<a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_basics.png" align="left" style="margin-right: 20px" /></a>
 
 <a href="https://www.credly.com/badges/0a0b8a88-6f78-4d80-bdfc-f81970fba27e/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_basics.png" align="left" style="margin-right: 20px" /></a>
 
 <a href="https://www.credly.com/badges/ec7b297f-1f51-4104-8572-f5044bd19ba4/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_devices_and_config.png" align="left" style="margin-right: 20px" /></a>
 
+<a href="https://www.credly.com/badges/3490071a-f0aa-43b4-ac6e-2eb1167e50de/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_cyber_threat_management.png" align="left" style="margin-right: 20px" /></a>
 <br>
 <br>
 <br>
