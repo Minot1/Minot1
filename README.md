@@ -18,6 +18,9 @@
 <a href="https://www.credly.com/badges/ec7b297f-1f51-4104-8572-f5044bd19ba4/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cisco_networking_devices_and_config.png" align="left" style="margin-right: 20px" /></a>
 
 <a href="https://www.credly.com/badges/3490071a-f0aa-43b4-ac6e-2eb1167e50de/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/cyber-threat-management.png" align="left" style="margin-right: 20px" /></a>
+
+<a href="https://www.credly.com/badges/13ecbf33-75c0-4582-963a-7a15149d6d00/public_url"><img src="https://raw.githubusercontent.com/Minot1/Minot1/master/assets/junior-cybersecurity-analyst-career-path.1.png" align="left" style="margin-right: 20px" /></a>
+
 <br>
 <br>
 <br>
