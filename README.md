@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/tanerdincer/"><img src="https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
 <a href="mailto:dincer.taner123@gmail.com"><img src="https://img.shields.io/badge/email-white?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-<a href="https://tanerdincer.com" target="_blank"><img src="https://img.shields.io/badge/personal_website-white?style=for-the-badge&logo=html5" /></a>
+<a href="https://tanerdincer.com"><img src="https://img.shields.io/badge/personal_website-white?style=for-the-badge&logo=html5" /></a>
 
 
 - Computer Science BSc Degree
