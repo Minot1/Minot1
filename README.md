@@ -9,6 +9,7 @@
 - Currently studying MSc Software Engineering
 - Passionate about Cyber Security
 - Participates in CTFs regularly
+- Currently studying for HTB CPTS
 
 ## Achievements
 
