@@ -56,6 +56,6 @@
 
 <br>
 
-[![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/tryhackme.png)](https://tryhackme.com/p/minot) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Minot](https://raw.githubusercontent.com/Minot1/Minot1/master/assets/hackthebox.png)](https://app.hackthebox.com/profile/469019)
 
